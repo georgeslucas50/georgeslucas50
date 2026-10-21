@@ -1,6 +1,6 @@
 # Georges Lucas Silva Queiroz de Albuquerque
 
-Instrutor de Cibersegurança na Escola de Comunicações do Exército | Especialista em Defesa Cibernética | Inteligência e Análise de Dados |
+Instrutor de Cibersegurança e Inteligência Artificial na Escola de Comunicações do Exército | Especialista em Defesa Cibernética | Inteligência e Análise de Dados |
 
 ## Sobre
 
