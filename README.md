@@ -23,3 +23,8 @@ Ambiente local para estudar e experimentar ferramentas de inteligência artifici
 ## Repositório
 
 Veja o [código, instruções de instalação e documentação do Laboratório IA](https://github.com/georgeslucas50/lab_ia).
+
+## Perfis
+
+- [LinkedIn](https://www.linkedin.com/in/georges-lucas-0928123b3/)
+- [GitHub](https://github.com/georgeslucas50)
