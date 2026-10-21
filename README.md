@@ -1,16 +1,25 @@
-## Hi there 👋
+# Georges Lucas Silva Queiroz de Albuquerque
 
-<!--
-**georgeslucas50/georgeslucas50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desenvolvedor do Laboratório IA**  
+Projetos pessoais em inteligência artificial local, automação e ambientes de aprendizagem.
 
-Here are some ideas to get you started:
+## Sobre
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Neste perfil compartilho projetos que desenvolvo e mantenho, com foco em soluções práticas, documentação clara e ambientes reproduzíveis.
+
+## Projeto em destaque
+
+### [Laboratório IA](https://github.com/georgeslucas50/lab_ia)
+
+Ambiente local para estudar e experimentar ferramentas de inteligência artificial. A stack é executada com Docker Compose no Ubuntu sobre WSL 2 e inclui:
+
+- Modelos locais com Ollama e acesso por interfaces como Open WebUI.
+- Notebooks persistentes com JupyterLab.
+- Workflows e automações com n8n.
+- Scripts de instalação e atualização para Windows.
+
+**Tecnologias:** Python · FastAPI · Docker Compose · WSL 2 · Ollama · JupyterLab · n8n
+
+## Repositório
+
+Veja o [código, instruções de instalação e documentação do Laboratório IA](https://github.com/georgeslucas50/lab_ia).
