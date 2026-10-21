@@ -1,7 +1,6 @@
 # Georges Lucas Silva Queiroz de Albuquerque
 
-**Desenvolvedor do Laboratório IA**  
-Projetos pessoais em inteligência artificial local, automação e ambientes de aprendizagem.
+Instrutor de Cibersegurança na Escola de Comunicações do Exército | Especialista em Defesa Cibernética | Inteligência e Análise de Dados |
 
 ## Sobre
 
